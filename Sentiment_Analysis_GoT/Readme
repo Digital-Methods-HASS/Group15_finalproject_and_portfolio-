@@ -1,1 +1,6 @@
+Sentiment Analysis of Game of Thrones in R
 
+This project analses sentiment in Game of Thrones book text using R and tidyverse. 
+The analysis focuses on identifying emotional tone through lexicon-based sentiment analysis and visualising the distribution of sentiment scores across the text. 
+
+The project shows how R can be used to explore emotional patterns in literary texts.
