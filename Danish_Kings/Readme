@@ -1,5 +1,6 @@
 Danish Monarchs Analysis with R 
 
-This project examines Danish monarchs using R and the tidyverse package collection. The analysis focuses on organising and exploring historical data, calculating the length of each monarch’s reign, identifying the longest-serving rulers, and visualising changes in reign duration.
+This project examines Danish monarchs using R and the tidyverse package collection. 
+The analysis focuses on organising and exploring historical data, calculating the length of each monarch’s reign, identifying the longest-serving rulers, and visualising changes in reign duration.
 
 The project demonstrates how R can be applied to process, analyse, and present historical data through clear statistical analysis and visualisations.
